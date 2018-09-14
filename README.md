@@ -1,2 +1,2 @@
 # 2piTetris
-Small experimental game using PhaserJS [click through here](http://vilix.xyz/?p=portfolio)
+Small experimental game using PhaserJS [click through here](http://vilda.net/?p=portfolio)
